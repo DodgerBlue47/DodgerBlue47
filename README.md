@@ -1,12 +1,12 @@
-# DodgerBlue - Programmer/Developer
+# Jhaiian - Programmer/Developer
 
-Welcome to my GitHub profile! I'm DodgerBlue, a dedicated programmer/developer passionate about honing my skills in Python and Java for app development. Despite not having access to a laptop or PC, I'm committed to my craft and currently code exclusively using my phone. 
+Welcome to my GitHub profile! I'm Jhaiin, a dedicated programmer/developer passionate about honing my skills in Python and Java for app development. Despite not having access to a laptop or PC, I'm committed to my craft and currently code exclusively using my phone. 
 
 ## About Me
 - **Location:** Philippines
 - **Gender:** Male
 - **Favorite Color:** Blue
-- **Favorite Song:** "Best Friend" by Rex Orange County
+- **Favorite Song:** "Happiness" by Rex Orange County
 - **Favorite Sports:** Chess (though I enjoy watching basketball)
 - **Interests:** Chess, solving Rubik's Cube
 - **Personality:** Introverted
